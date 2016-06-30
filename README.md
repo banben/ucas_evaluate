@@ -11,4 +11,4 @@
 
 #### 基本使用
 
-使用[开发者模式](http://chromecj.com/utilities/2015-04/423.html)安装插件后，访问样[评教页面](http://jwxk.ucas.ac.cn/evaluate/45462)进行评教。
+使用[开发者模式](http://chromecj.com/utilities/2015-04/423.html)安装插件后，访问[评教页面](http://jwxk.ucas.ac.cn/evaluate/45462)进行评教。
